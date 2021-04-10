@@ -1,5 +1,8 @@
-def dodaj(a, b):
-wynik = a + b
-return wynik
+def dodaj():
+print ('Wprowadz dwie liczby a zostana one dodane')
+a = int(intput())
+b = int(input())
+print = (a + b)
 
 dodaj()
+
